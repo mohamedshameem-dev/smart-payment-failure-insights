@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Payment Failure Intelligence System
+# 🚀 AI-Powered Smart Payment Failure Intelligence System
 ## 📌 Overview
 
 ### This project is an AI-driven eCommerce payment analytics system that:
