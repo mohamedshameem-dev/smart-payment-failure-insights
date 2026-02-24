@@ -4,7 +4,7 @@
 import pandas as pd
 from ollama import chat
 
-filepath = "D:/New folder/Preparations/Learn python/Practice/py Data/AI projects/payment_ai_sample_data.xlsx"
+filepath = "X:/New folder/AI projects/payment_ai_sample_data.xlsx"
 df = pd.read_excel(filepath)
 
 #KPI calculations
@@ -103,4 +103,5 @@ response = chat(
 
 print("\n====== AI BUSINESS INSIGHTS ======")
 print(response.message.content)
+
 print("-" * 60)
